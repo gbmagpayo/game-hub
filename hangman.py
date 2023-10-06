@@ -65,19 +65,9 @@ def hangman():
             else:
                 guessedLetters.append(guess)
                 numTriesLeft -= 1
-    
-    
-
-
 
 def main():
     hangman()
-
-    
-
-    
-
-
 
 if __name__ == "__main__":
     main()
